@@ -1,4 +1,4 @@
-# 开发中遇到到的问题记录
+# 开发中遇到的问题记录
 ## 1、
 报错：Failed to set () user defined inspected property on (UIButton)
 ![截图](https://raw.githubusercontent.com/huxq-coder/resource/master/image/view/view_tips1.png) 
