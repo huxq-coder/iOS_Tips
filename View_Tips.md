@@ -8,8 +8,7 @@
 ##  3、支付宝SDK告警信息
 warning: (x86_64) /Users/shanjia.gxd/work_space/tmp/ios-msdk-git/AlipaySDK4Standard/AlipaySDK/Library/UTDID.framework/UTDID(UTDIDAES.o) unable to open object file: No such file or directory
 warning: (x86_64) /Users/shanjia.gxd/work_space/tmp/ios-msdk-git/AlipaySDK4Standard/AlipaySDK/Library/UTDID.framework/UTDID(UTDIDBaseUtils.o) unable to open object file: No such file or directory
-
-####解决方法
+解决方法
 1) Go to Build Settings -> Build Options -> Debug Information Format
 2) Change the Debug setting from “DWARF with dSYM File” to “DWARF”
 3) Leave the Release setting at “DWARF with dSYM File”
